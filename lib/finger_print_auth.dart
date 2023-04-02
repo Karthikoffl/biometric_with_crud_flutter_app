@@ -88,7 +88,7 @@ class _FingerprintAuthState extends State<FingerprintAuth> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget> [
             Image.asset('assets/images/logo.png'),
-            SizedBox(height: 20,),
+            SizedBox(height: 10,),
             const Center(
               child: Text(
                 "Login",
