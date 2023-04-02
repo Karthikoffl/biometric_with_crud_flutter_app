@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\My Folder\\My Flutter Projects\\biometric_authentication_flutter-main\\build\\local_auth_android\\intermediates\\res\\merged\\debug\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\Divine Enterprises\\.gradle\\caches\\transforms-2\\files-2.1\\660072fb016bef267a0355db71f3b13f\\fragment-1.5.5\\res\\animator\\fragment_open_enter.xml"
+    }
+]
